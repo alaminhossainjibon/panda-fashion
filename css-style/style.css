@@ -1,0 +1,12 @@
+.banner-color{
+    background-color: #FEEAE9;
+}
+.price-color{
+    color: #FF136F;
+}
+.button-style{
+    background-image: linear-gradient(#FF589B, #FF136F);
+    border-radius: 10px;
+    padding:10px 20px;
+    text-decoration: none;
+}
